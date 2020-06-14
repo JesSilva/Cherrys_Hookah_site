@@ -1,0 +1,43 @@
+body {
+    background: #ADADAD;
+}
+
+.fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+
+    .textoPrincipal {
+        padding-top: 20px;
+    }
+
+      /* Social Button Stype */
+      .scl-btn {
+        padding: 15px;
+        font-size: 25px;
+        width: 55px;
+        text-align: center;
+        text-decoration: none;
+        margin:5px;
+        color: white;
+      }
+      /* Hover Effect */
+      .scl-btn:hover {
+        opacity: 0.8;
+        text-align: center;
+        text-decoration: none;
+        color: white;
+      }
+      /* Round buttons */
+      .scl-crcl {
+        border-radius: 50%;
+      }
+      /* Round Corners */
+      .scl-rnd {
+          border-radius:5px;
+      }
+
+      .fa-whatsapp { background: #25D366; }
+      .fa-instagram { background: #FE4866  ; }

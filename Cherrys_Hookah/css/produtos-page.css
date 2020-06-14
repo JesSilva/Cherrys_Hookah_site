@@ -1,0 +1,39 @@
+#product-background {
+    background-image: url('../img/publicity-vs-pr-featured-image.jpg');
+
+    height: 300px;
+    width: auto;
+}
+
+body {
+    background-color: #ADADAD;
+}
+
+.our-products ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.our-products ul li {
+    padding: 40px;
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-size: 25px;
+}
+
+.our-products ul li .imgLogo {
+    width: 100px;
+    height: 100px;
+
+    border-radius: 50%;
+}
+
+.imgcard {
+    height: 300px;
+    width: 300px;
+}
